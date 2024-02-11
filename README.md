@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KyazarayDev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KyazarayDev&theme=dark&hide_border=true&border_radius=5.8&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **KyazarayDev/KyazarayDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
